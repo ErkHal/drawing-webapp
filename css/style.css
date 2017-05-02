@@ -1,0 +1,15 @@
+/* Written by Erkki Halinen 2017 */
+
+/* Background pattern from Subtle Patterns:  https://www.toptal.com/designers/subtlepatterns/ */
+
+body {
+    
+    background-color: #2D2E2E;
+
+}
+
+script {
+    
+    display: none;
+    
+}
